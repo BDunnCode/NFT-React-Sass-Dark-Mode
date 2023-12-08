@@ -1,6 +1,6 @@
 import React from "react"
-import eth1 from "../assets/eth1.png";
-import eth2 from "../assets/eth2.png";
+import eth1 from "../assets/eth1.png"
+import eth2 from "../assets/eth2.png"
 
 
 export default function Like() {
