@@ -5,7 +5,7 @@ export default function Home() {
   return <div className="home">
     <div className="container">
       <div className="content">
-        <p className="sub-title">Launcing Soon</p>
+        <p className="sub-title">Launching Soon</p>
         <h1 className="title">An NFT like no other</h1>
         <p className="description">
           Don't miss out on the release of our new NFT. Sign up below to
