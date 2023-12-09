@@ -1,8 +1,8 @@
 import React from "react"
+import Card from "../components/Card.jsx"
 import icon from "../assets/icon.png"
 import super1 from "../assets/super1.png"
 import release2 from "../assets/release2.png"
-import Card from "../components/Card.jsx"
 
 export default function Free() {
   return (
